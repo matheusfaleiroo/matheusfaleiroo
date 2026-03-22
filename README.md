@@ -6,6 +6,6 @@
 ## 📈 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusfaleiroo)
 
-## 📫 Contato
+## 📩 Contatos
 - Email: matheusfaleiro12@gmail.com
 - Instagram: @matheus.faleiroo
