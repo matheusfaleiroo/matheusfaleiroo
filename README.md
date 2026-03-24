@@ -5,4 +5,4 @@
 
 ## 📩 Contatos
 - Email: matheusfaleiro12@gmail.com
-- Instagram: @matheus.faleiroo
+- Instagram: @m.faleiroo
